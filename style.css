@@ -16,8 +16,8 @@ body {
 }
 
 h1 {
-    font-size: 45px;
-    font-weight: 600;
+    font-size: 64px;
+    font-weight: 700;
     text-shadow: 2px 4px 10px rgba(0, 0, 0, 0.3);
     letter-spacing: 2px;
 }
@@ -27,6 +27,7 @@ h2 {
     text-shadow: 2px 4px 10px rgba(0, 0, 0, 0.3);
     letter-spacing: 2px;
 }
+
 button {
     margin-top: 20px;
     padding: 10px 30px;
